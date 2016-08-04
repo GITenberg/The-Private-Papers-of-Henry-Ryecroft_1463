@@ -1,0 +1,41 @@
+_repo: The-Private-Papers-of-Henry-Ryecroft_1463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: "The Private Papers of Henry Ryecroft is a semi-fictional autobiographical\
+  \ work by George Gissing in which the author casts himself as the editor of the\
+  \ diary of a deceased acquaintance, selecting essays for posthumous publication.\
+  \ Observing \"how suitable many of the reflections were to the month with which\
+  \ they were dated\", he explains that he \"hit upon the thought of dividing the\
+  \ little book into four chapters, named after the seasons\".\nIt was partly because\
+  \ of the seasonal arrangement, and Ryecroft's obvious love of the natural world,\
+  \ that the book gained widespread popularity in Japan, being introduced as early\
+  \ as 1908 by the scholar of English literature Tokuboku Hirata (1873-1943). Other\
+  \ contributing factors were the classic unaffected style, which made the text suitable\
+  \ for educational and examination purposes, and Ryecroft's frank assessments of\
+  \ society and politics, which may have endeared him to the young academics of the\
+  \ country in the early part of the 20th century.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1463'
+  wikidata: Q17027661
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: The Private Papers of Henry Ryecroft
+url: http://www.gutenberg.org/ebooks/1463
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Private_Papers_of_Henry_Ryecroft
